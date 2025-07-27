@@ -6,6 +6,9 @@ A professional audit report automation solution designed for TNBT organization t
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e3e08c98-ad7e-49d5-bcf0-ed2411e94b61" />
+
+
 ## 📋 Overview
 
 This application automates the generation of comprehensive post-drainage audit reports by processing countsheet data and combining it with master file information to produce formatted Excel reports. It reduces audit report generation time by 95% while ensuring data accuracy and consistent formatting.
